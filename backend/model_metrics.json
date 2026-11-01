@@ -1,0 +1,29 @@
+{
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "train_samples": 1558,
+    "test_samples": 390,
+    "n_estimators": 100,
+    "max_depth": 15,
+    "feature_importances": {
+        "url_length": 0.03622699423156188,
+        "domain_length": 0.08913343701359733,
+        "dot_count": 0.0252649099525079,
+        "domain_hyphens": 0.093402390968452,
+        "hyphen_count": 0.047588304897197925,
+        "at_count": 0.0,
+        "question_count": 0.001563536303893474,
+        "equal_count": 0.0007847528404467768,
+        "underscore_count": 0.0019222847765839792,
+        "has_ip": 0.018504935441525636,
+        "is_shortened": 0.01792708773180091,
+        "is_https": 0.27820952184230013,
+        "subdomain_count": 0.01988044549194945,
+        "domain_in_path": 0.00026001742394173174,
+        "suspicious_keyword_count": 0.25170609024750823,
+        "directory_depth": 0.008930519254097513,
+        "brand_impersonation": 0.01218846827423654,
+        "dns_resolved": 0.09650630330839861
+    }
+}
